@@ -26,7 +26,7 @@ A beautiful, feature-rich terminal emulator built with Python and Tkinter that p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/custom-terminal.git
+   git clone https://github.com/Dishant-Gotis/custom-terminal.git
    cd custom-terminal
    ```
 
