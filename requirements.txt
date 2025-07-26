@@ -1,0 +1,13 @@
+# Custom Terminal Emulator Dependencies
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+# Python >= 3.7
+
+# Standard library modules used:
+# - tkinter (GUI framework)
+# - subprocess (command execution)
+# - os (operating system interface)
+# - threading (multi-threading support)
+# - queue (thread-safe queues) 
