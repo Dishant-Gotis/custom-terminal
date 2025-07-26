@@ -178,17 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by classic terminal emulators
 - Thanks to the Python community for excellent documentation
 
-## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/custom-terminal?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/custom-terminal?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/custom-terminal)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/custom-terminal)
-![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
-
----
-
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Dishant Gotis]**
 
 If you find this project helpful, please give it a ⭐! 
