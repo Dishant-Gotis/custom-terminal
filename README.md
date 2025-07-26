@@ -130,15 +130,22 @@ font=("Consolas", 11)  # Font family, size
 
 ```
 custom-terminal/
-├── COMAND.py          # Main terminal application
-├── README.md          # This file
-├── LICENSE            # MIT License
-├── requirements.txt   # Python dependencies
-├── .gitignore         # Git ignore file
-├── screenshots/       # Screenshots and images
-│   └── terminal.png   # Terminal screenshot
-└── docs/             # Additional documentation
-    └── CONTRIBUTING.md
+├── COMAND.py                # Main terminal application
+├── README.md                # Project documentation
+├── LICENSE                  # MIT License
+├── requirements.txt         # Python dependencies
+├── .gitignore               # Git ignore rules
+├── CHANGELOG.md             # Project changelog
+├── SECURITY.md              # Security policy
+├── .github/                 # GitHub configuration
+│   ├── workflows/
+│   │   └── ci.yml           # GitHub Actions CI workflow
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md    # Bug report template
+│   │   └── feature_request.md # Feature request template
+│   └── PULL_REQUEST_TEMPLATE.md # Pull request template
+├── screenshots/
+│   └── terminal.png         # Terminal screenshot for documentation
 ```
 
 ## 🤝 Contributing
